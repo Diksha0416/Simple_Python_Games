@@ -1,6 +1,3 @@
-Here's a README file specifically tailored for your Snake game:
-
----
 
 # 🐍 Snakes with Diksha  
 
